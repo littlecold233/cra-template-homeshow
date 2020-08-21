@@ -8,7 +8,7 @@
         "experimentalDecorators": true,
         "jsx": "preserve",
         "module": "ESNext",
-        "resolveJsonModule": false,
+        "resolveJsonModule": true,
         "isolatedModules": true,
         "lib": [
             "es2015",
