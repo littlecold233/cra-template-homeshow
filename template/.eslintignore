@@ -1,0 +1,11 @@
+lib
+dist
+es
+node_modules
+build
+package.json
+typings
+.eslintrc.js
+webpack
+**/*.d.ts
+config-overrides.js

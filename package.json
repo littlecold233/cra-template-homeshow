@@ -1,0 +1,21 @@
+{
+  "name": "cra-template-homeshow",
+  "version": "1.2.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "homeshow"
+  ],
+  "description": "The Homeshow template for Create React App",
+  "main": "template.json",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
