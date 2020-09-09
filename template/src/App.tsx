@@ -63,8 +63,8 @@ export default function App() {
                         <Route path="/brandgood/list" exact component={BrandgoodList} />
                         <Route path="/model/manage" exact component={ModelList} />
                         <Route path="/model/auth" exact component={ModelAuth} />
+                        <Redirect exact from="/" to="/brandgood/detail" />
                     </Switch>
-                    <Redirect exact from="/" to="/brandgood/detail" />
                 </Content>
             </Layout>
         </BrowserRouter>
